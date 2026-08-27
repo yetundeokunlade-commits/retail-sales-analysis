@@ -171,7 +171,7 @@ The analysis provided insights into differences in sales performance across stor
 
 Further analysis, including predictive modelling and more detailed investigation of promotional and economic factors, could provide additional insight into future sales performance.
 ## Acknowledgements
-IAld like to sincerely thank my darling husband and lovely children for their love, patience, encouragement and unwavering support throughout my learning journey. I also deeply appreciate the trainers at Code Institute for their guidance, support and valuable feedback throughout the course and project.
+I would like to sincerely thank my darling husband and lovely children for their love, patience, encouragement and unwavering support throughout my learning journey. I also deeply appreciate the trainers at Code Institute for their guidance, support and valuable feedback throughout the course and project.
 
 
 
