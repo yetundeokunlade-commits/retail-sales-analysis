@@ -1,4 +1,4 @@
-# Retail Sales Analysis
+# Retail Sales Data Analysis
 
 ## Project Overview
 
@@ -25,8 +25,8 @@ The project uses the Retail Data Analytics dataset obtained from Kaggle.
 
 The dataset consists of three main files:
 
-* **sales data-set.csv** – contains weekly sales information for stores and departments, including dates and holiday indicators.
-* **stores data-set.csv** – contains information about individual stores, including store type and store size.
+* **Sales data-set.csv** – contains weekly sales information for stores and departments, including dates and holiday indicators.
+* **Stores data-set.csv** – contains information about individual stores, including store type and store size.
 * **Features data set.csv** – contains additional information such as holidays, markdown data, CPI and unemployment.
 
 The sales dataset contains **421,570 records** and includes the following main variables:
@@ -180,7 +180,6 @@ Further analysis, including predictive modelling and more detailed investigation
 
 
 
-* 
 * **OpenAI ChatGPT**: Used as an AI assistance tool during the development of the project, for understanding concepts, troubleshooting Python code, reviewing analysis approaches and improving project documentation. https://chatgpt.com
 * **QuillBot**: Used to support paraphrasing and improve the readability of written content. https://quillbot.com**
 * Scribbor: support with proofreading/academic writing and referencing, if that's how you used it. https://www.scribbr.com
