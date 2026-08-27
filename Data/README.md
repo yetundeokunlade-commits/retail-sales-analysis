@@ -170,17 +170,23 @@ This project demonstrates how data analytics can be used to explore retail sales
 The analysis provided insights into differences in sales performance across stores, changes in weekly sales and the relationship between sales and holiday periods. The findings can help support more informed retail planning and decision-making.
 
 Further analysis, including predictive modelling and more detailed investigation of promotional and economic factors, could provide additional insight into future sales performance.
+## Acknowledgements
+IAld like to sincerely thank my darling husband and lovely children for their love, patience, encouragement and unwavering support throughout my learning journey. I also deeply appreciate the trainers at Code Institute for their guidance, support and valuable feedback throughout the course and project.
+
+
+
+
 
 ## References
 
 * **Kaggle – Retail Data Analytics dataset**: The main dataset used for the project.https://www.kaggle.com/datasets/manjeetsingh/retaildatase
 * **Code Institute**: Course learning materials and project guidance.https://codeinstitute.net
-* Code Institute LMS — Learning materials, exercises and project guidance used throughout the course. https://lms.codeinstitute.net/site/not_logged_im
+* Code Institu: LMS — Learning materials, exercises and project guidance used throughout the course. https://lms.codeinstitute.net/site/not_logged_im
 * **Code Institute Trainer/Facilitator** — Emma Lamont— Guidance, feedback and support provided throughout the project.
 
 
 
 * **OpenAI ChatGPT**: Used as an AI assistance tool during the development of the project, for understanding concepts, troubleshooting Python code, reviewing analysis approaches and improving project documentation. https://chatgpt.com
-* **QuillBot**: Used to support paraphrasing and improve the readability of written content. https://quillbot.com**
-* Scribbor: support with proofreading/academic writing and referencing, if that's how you used it. https://www.scribbr.com
+* **QuillBot**: Used to support paraphrasing and improve the readability of written content. https://quillb.com**
+* **Scribbor**: support with proofreading/academic writing and referencing, if that's how you used it. https://www.scribbr.com
 * 
