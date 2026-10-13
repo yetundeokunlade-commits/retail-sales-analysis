@@ -2,6 +2,10 @@
 
 # Retail Sales Data Analysis
 
+A. Aim
+
+The aim of this project is to analyse historical Walmart retail sales data to identify sales patterns, understand differences in store and department performance, and provide practical business recommendations.
+
 ## Project Overview
 
 This project analyses historical Walmart retail sales data to identify sales patterns and provide useful business insights. The analysis focuses on sales performance across stores, departments, months, years, holidays and store types.
@@ -19,6 +23,10 @@ The main objectives of this project are to:
 * Investigate unusual values, including negative Weekly_Sales.
 * Explore the relationship between store size and Weekly_Sales.
 * Use the findings to provide practical business recommendations.
+
+B. Project Purpose and Target Audience
+
+The purpose of this project is to turn historical sales data into useful information that can support business planning and decision-making. The target audience includes retail managers, store managers and business analysts who need to understand sales performance and plan stock, staffing and resources.
 
 ## Dataset
 
@@ -70,6 +78,34 @@ Correlation was used to explore relationships between Weekly_Sales and selected 
 Matplotlib and Seaborn were used to create charts that made the results easier to understand. The visualisations included bar charts, line charts, histograms, box plots and scatter plots.
 
 The findings from the analysis were used to identify sales patterns and develop practical business recommendations relating to stock planning, seasonal demand, resources and store performance.
+
+C. Application of Data Analytics
+
+I applied data analytics techniques to prepare, explore and interpret the Walmart retail sales data. I used Pandas to group sales by stores, departments, months, years and holiday periods, calculate totals and averages, and investigate unusual values.
+
+I used descriptive statistics to understand the distribution of sales and the IQR method to identify potential outliers. I also used correlation analysis to explore relationships between Weekly_Sales and selected variables.
+
+Matplotlib and Seaborn helped me present the results through charts, making sales patterns and differences easier to identify. These techniques supported my interpretation of the data and helped me develop business recommendations.
+
+D. Data Analytics and AI Opportunity
+
+Data analytics can help retailers understand sales performance, recognise seasonal patterns and make better-informed decisions about stock, staffing and resources.
+
+AI could further support retail analysis by helping forecast future sales, identify unusual sales patterns and estimate demand during busy periods. These opportunities could help retailers plan resources more effectively.
+
+However, AI-generated predictions would need to be tested against reliable data and evaluated before being used to make business decisions. In this project, the analysis focused on historical sales patterns rather than implementing an AI forecasting model.
+
+E. Use of Generative AI
+
+I used Generative AI tools, including ChatGPT, to support my understanding of data analytics concepts, troubleshoot Python code, explore possible analysis approaches and improve the clarity of my project documentation. I also used QuillBot to support paraphrasing and readability.
+
+I reviewed the suggestions and used my understanding of the project to decide what was appropriate. The tools supported my learning and documentation, while I remained responsible for the analysis, interpretation of the results and final project content.
+
+F. Generative AI for Data Storytelling
+
+Generative AI can support data storytelling by helping organise findings, explain technical results in plain English and suggest ways to communicate insights to different audiences.
+
+In this project, AI assistance helped me improve the clarity of my explanations and documentation. The findings and recommendations were based on the analysis of the Walmart sales data and needed to remain consistent with the results.
 
 ## Key Findings
 
@@ -132,6 +168,16 @@ There are several limitations to consider when interpreting the findings:
 * Correlation results show relationships between variables but do not prove that one variable caused another.
 
 These limitations should be considered when using the findings to support business decisions.
+
+Effectiveness of Techniques
+
+Pandas was effective for loading, cleaning, grouping and analysing the sales data. It made it easier to compare sales across stores, departments, months, years and holiday periods.
+
+Matplotlib and Seaborn helped present the results visually through bar charts, line charts, histograms, box plots and scatter plots. These visualisations made sales patterns, differences and unusual values easier to explore.
+
+The IQR method helped identify potential outliers, while correlation analysis helped explore relationships between sales and selected variables. However, potential outliers are not necessarily errors, and correlation does not prove causation.
+
+Power BI and Tableau provided interactive ways to present findings and support exploration of the results. Overall, combining data preparation, statistical analysis and visualisation was useful for identifying sales patterns and developing practical recommendations. Each technique contributed to the analysis, although the findings remain limited by the historical dataset and factors not included in it.
 
 ## Conclusion
 
