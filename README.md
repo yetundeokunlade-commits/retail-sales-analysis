@@ -144,7 +144,11 @@ Visualisations were created using Python, Matplotlib and Seaborn to make the ana
 
 The project also includes interactive dashboards created using **Power BI** and **Tableau**. These dashboards provide a visual summary of the sales data and allow users to explore key sales patterns and performance.
 
-The visualisations and dashboards support the findings presented in the project and help communicate the results to both technical and non-technical audiences.
+The visualisations and dashboards support the findings presented in the project and help communicate the results clearly to readers with different levels of data analytics knowledge. 
+
+## Tableau Dashboard
+I created an interactive dashboard in Tableau to present the key findings from my Walmart retail sales analysis. The dashboard allows users to explore sales performance across stores and departments and understand sales patterns over time.
+View the Tableau dashboard  https://public.tableau.com/app/profile/yetunde.okunlade/viz/WalmartRetailSalesDashboard_17894884888020/Dashboard1
 
 ## Project Structure
 
