@@ -203,7 +203,8 @@ Overall, the project demonstrates how data preparation, analysis and visualisati
 
 ## Acknowledgements
 
-I would like to sincerely acknowledge my Learning Facilitator, **[Emma Lamont]**, for her guidance, encouragement and support throughout my Data Analytics with AI learning journey. Her teaching, feedback and willingness to provide support have helped me develop my understanding of data analytics and build confidence in applying my skills.
+
+I would like to sincerely acknowledge my Learning Facilitator, Emma Lamont, for her guidance, encouragement and support throughout my Data Analytics with AI learning journey. Her teaching, feedback and willingness to provide support have helped me develop my understanding of data analytics and build confidence in applying my skills.
 
 I would also like to acknowledge my Code Institute trainers and tutors for their teaching, guidance and project support throughout the course.
 
