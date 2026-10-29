@@ -2,11 +2,11 @@
 
 # Retail Sales Data Analysis
 
-A. Aim
+## A. Aim
 
 The aim of this project is to analyse historical Walmart retail sales data to identify sales patterns, understand differences in store and department performance, and provide practical business recommendations.
 
-## Project Overview
+## Project Overview             
 
 This project analyses historical Walmart retail sales data to identify sales patterns and provide useful business insights. The analysis focuses on sales performance across stores, departments, months, years, holidays and store types.
 
@@ -16,15 +16,15 @@ The project uses Python and data analytics techniques to clean, process, analyse
 
 The main objectives of this project are to:
 
-* Analyse sales performance across stores and departments.
-* Identify sales trends across months and years.
-* Compare sales during holiday and non-holiday periods.
-* Examine differences in sales performance between store types.
-* Investigate unusual values, including negative Weekly_Sales.
-* Explore the relationship between store size and Weekly_Sales.
-* Use the findings to provide practical business recommendations.
+- Analyse sales performance across stores and departments.
+- Identify sales trends across months and years.
+- Compare sales during holiday and non-holiday periods.
+- Examine differences in sales performance between store types.
+- Investigate unusual values, including negative `Weekly_Sales`.
+- Explore the relationship between store size and `Weekly_Sales`.
+- Use the findings to provide practical business recommendations.
 
-B. Project Purpose and Target Audience
+## Project Purpose and Target Audience
 
 The purpose of this project is to turn historical sales data into useful information that can support business planning and decision-making. The target audience includes retail managers, store managers and business analysts who need to understand sales performance and plan stock, staffing and resources.
 
@@ -44,14 +44,13 @@ The datasets were combined using matching Store and Date information to create a
 
 The following tools and technologies were used in this project:
 
-* **Python** – used for data cleaning, processing, analysis and visualisation.
-* **Pandas** – used to load, clean, transform and analyse the datasets.
-* **Matplotlib** – used to create charts and visualisations.
-* **Seaborn** – used to create statistical visualisations.
-* **Jupyter Notebook** – used to develop and document the analysis.
-* **Power BI** – used to create an interactive dashboard for presenting key findings.
-* **Tableau** – used to create an interactive sales dashboard.
-* **Generative AI** – used to support understanding, troubleshooting, analysis approaches and project documentation.
+- **Python** – used for data cleaning, processing, analysis and visualisation.
+- **Pandas** – used to load, clean, transform and analyse the datasets.
+- **Matplotlib** – used to create charts and visualisations.
+- **Seaborn** – used to create statistical visualisations.
+- **Jupyter Notebook** – used to develop and document the analysis.
+- **Tableau** – used to create an interactive sales dashboard.
+- **Generative AI** – used to support understanding, troubleshoot code, explore analysis approaches and improve project documentation.
 
 ## Data Preparation and Methodology
 
@@ -79,7 +78,7 @@ Matplotlib and Seaborn were used to create charts that made the results easier t
 
 The findings from the analysis were used to identify sales patterns and develop practical business recommendations relating to stock planning, seasonal demand, resources and store performance.
 
-C. Application of Data Analytics
+## C. Application of Data Analytics
 
 I applied data analytics techniques to prepare, explore and interpret the Walmart retail sales data. I used Pandas to group sales by stores, departments, months, years and holiday periods, calculate totals and averages, and investigate unusual values.
 
@@ -87,7 +86,7 @@ I used descriptive statistics to understand the distribution of sales and the IQ
 
 Matplotlib and Seaborn helped me present the results through charts, making sales patterns and differences easier to identify. These techniques supported my interpretation of the data and helped me develop business recommendations.
 
-D. Data Analytics and AI Opportunity
+## D. Data Analytics and AI Opportunity
 
 Data analytics can help retailers understand sales performance, recognise seasonal patterns and make better-informed decisions about stock, staffing and resources.
 
@@ -95,17 +94,17 @@ AI could further support retail analysis by helping forecast future sales, ident
 
 However, AI-generated predictions would need to be tested against reliable data and evaluated before being used to make business decisions. In this project, the analysis focused on historical sales patterns rather than implementing an AI forecasting model.
 
-E. Use of Generative AI
+## E. Use of Generative AI
 
 I used Generative AI tools, including ChatGPT, to support my understanding of data analytics concepts, troubleshoot Python code, explore possible analysis approaches and improve the clarity of my project documentation. I also used QuillBot to support paraphrasing and readability.
 
 I reviewed the suggestions and used my understanding of the project to decide what was appropriate. The tools supported my learning and documentation, while I remained responsible for the analysis, interpretation of the results and final project content.
 
-F. Generative AI for Data Storytelling
+## F. Generative AI for Data Storytelling
 
-Generative AI can support data storytelling by helping organise findings, explain technical results in plain English and suggest ways to communicate insights to different audiences.
+Generative AI can support data storytelling by helping organise findings, explain analysis results in plain English and communicate insights clearly.
 
-In this project, AI assistance helped me improve the clarity of my explanations and documentation. The findings and recommendations were based on the analysis of the Walmart sales data and needed to remain consistent with the results.
+In this project, I used ChatGPT to help improve the explanations of my Walmart sales analysis and present findings more clearly. This helped me communicate the purpose of my analysis, explain the meaning of the results and develop recommendations based on the findings. I reviewed the suggested wording to ensure it remained consistent with my actual analysis and results. The data analysis, interpretation and final recommendations remained my responsibility.
 
 ## Key Findings
 
@@ -173,15 +172,17 @@ There are several limitations to consider when interpreting the findings:
 
 These limitations should be considered when using the findings to support business decisions.
 
-Effectiveness of Techniques
+## Effectiveness of Techniques
 
-Pandas was effective for loading, cleaning, grouping and analysing the sales data. It made it easier to compare sales across stores, departments, months, years and holiday periods.
+Pandas was effective for loading, cleaning, grouping and analysing the Walmart sales data. It helped me compare sales across stores, departments, months, years and holiday periods. The dataset provided historical sales information for these comparisons, although it did not include every factor that could influence sales.
 
-Matplotlib and Seaborn helped present the results visually through bar charts, line charts, histograms, box plots and scatter plots. These visualisations made sales patterns, differences and unusual values easier to explore.
+Data cleaning helped me identify data quality issues, including negative weekly sales values and potential outliers. Examining these issues before analysis helped me understand the data more clearly. However, negative sales values and potential outliers are not necessarily errors and need to be interpreted carefully.
 
-The IQR method helped identify potential outliers, while correlation analysis helped explore relationships between sales and selected variables. However, potential outliers are not necessarily errors, and correlation does not prove causation.
+Organising the data into DataFrames made it easier to process, group and analyse the information. Keeping the project files organised also supported access to the data and reuse during the analysis.
 
-Power BI and Tableau provided interactive ways to present findings and support exploration of the results. Overall, combining data preparation, statistical analysis and visualisation was useful for identifying sales patterns and developing practical recommendations. Each technique contributed to the analysis, although the findings remain limited by the historical dataset and factors not included in it.
+Matplotlib and Seaborn helped me explore the results using bar charts, line charts, histograms, box plots and scatter plots. These visualisations made sales patterns, differences and unusual values easier to identify. The IQR method helped identify potential outliers, while correlation analysis helped me explore relationships between sales and selected variables. However, correlation does not prove causation.
+
+Tableau provided an interactive way to present key findings and explore differences in sales across stores, store types and time periods. Overall, combining data preparation, statistical analysis and visualisation was useful for identifying sales patterns and developing practical recommendations. The findings remain limited by the historical period covered by the dataset and factors not included in the available data.
 
 ## Conclusion
 
@@ -195,18 +196,27 @@ Overall, the project demonstrates how data preparation, analysis and visualisati
 
 ## References
 
-1. [Kaggle – Retail Data Analytics dataset](https://www.kaggle.com/datasets/manjeetsingh/retaildataset) – Used as the primary dataset for this project.
-2. [Kaggle – Walmart Recruiting: Store Sales Forecasting](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting) – Original Walmart sales forecasting competition and dataset source.
-3. [Code Institute – Data Analytics with AI](https://codeinstitute.net/) – Course materials and Capstone Project guidance.
-4. [Code Institute](https://codeinstitute.net/) – Programme information and learning resources.
-5. [pandas Documentation](https://pandas.pydata.org/docs/) – Documentation used to support data analysis and processing.
-6. [Matplotlib Documentation](https://matplotlib.org/stable/) – Documentation used to support data visualisation.
-7. [Seaborn Documentation](https://seaborn.pydata.org/) – Documentation used to support statistical visualisation.
-8. [OpenAI ChatGPT](https://chatgpt.com/) – Used to support understanding of concepts, troubleshooting Python code, analysis approaches and project documentation.
-9. [QuillBot](https://quillbot.com/) – Used to support paraphrasing and improve clarity and readability.
+1. **Kaggle – Retail Data Analytics dataset.** Used as the primary dataset for this project. Available at: [https://www.kaggle.com/datasets/manjeetsingh/retaildataset](https://www.kaggle.com/datasets/manjeetsingh/retaildataset)
+
+2. **Kaggle – Walmart Recruiting: Store Sales Forecasting.** Original Walmart sales forecasting competition and dataset source. Available at: [https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting)
+
+3. **Code Institute – Data Analytics with AI course materials.** Course materials, exercises and Capstone Project guidance used throughout the project. Available at: [Code Institute LMS](https://lms.codeinstitute.net/)
+
+4. **Code Institute.** Programme information and learning resources. Available at: [https://codeinstitute.net/](https://codeinstitute.net/)
+
+5. **pandas documentation.** Reference materials used to support data loading, cleaning, processing and analysis. Available at: [https://pandas.pydata.org/docs/](https://pandas.pydata.org/docs/)
+
+6. **Matplotlib documentation.** Reference materials used to support the creation of charts and data visualisations. Available at: [https://matplotlib.org/stable/](https://matplotlib.org/stable/)
+
+7. **Seaborn documentation.** Reference materials used to support statistical data visualisation. Available at: [https://seaborn.pydata.org/](https://seaborn.pydata.org/)
+
+8. **OpenAI ChatGPT.** Used to support understanding of data analytics concepts, troubleshooting Python code, exploring analysis approaches and improving project documentation. Available at: [https://chatgpt.com/](https://chatgpt.com/)
+
+9. **QuillBot.** Used to support paraphrasing and improve the clarity and readability of written content. Available at: [https://quillbot.com/](https://quillbot.com/)
+
+10. **Tableau – Retail Store Performance and Insights dashboard.** Interactive dashboard created to present and explore key findings from the Walmart retail sales analysis. Available at: [View the Tableau dashboard](https://public.tableau.com/app/profile/yetunde.okunlade/viz/WalmartRetailSalesDashboard_17894884888020/Dashboard1)
 
 ## Acknowledgements
-
 
 I would like to sincerely acknowledge my Learning Facilitator, Emma Lamont, for her guidance, encouragement and support throughout my Data Analytics with AI learning journey. Her teaching, feedback and willingness to provide support have helped me develop my understanding of data analytics and build confidence in applying my skills.
 
